@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816224154951",
+    "project_id": "doodles-bb855",
+    "storage_bucket": "doodles-bb855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816224154951:android:74043a39f64941a5ae4862",
+        "android_client_info": {
+          "package_name": "com.example.doodles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816224154951-3768q7mudcukqlm153sb3vhhf9eve1ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpMyIVk18F20SLqsODlOK3eL0WVrcOWNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816224154951-3768q7mudcukqlm153sb3vhhf9eve1ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
